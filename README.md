@@ -1,2 +1,2 @@
 # Python
-Python code repository to save my work
+Python for Data Science
